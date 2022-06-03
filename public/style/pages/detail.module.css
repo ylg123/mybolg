@@ -1,0 +1,34 @@
+.detailedtitle{
+  font-size: 2rem;
+  color: coral;
+  text-align: center;
+  padding: 1rem;
+}
+.center{
+  text-align: center;
+  padding: 0.5rem 0;
+  color: #AAA;
+}
+.detailedcontent{
+  padding: 1.3rem;
+  font-size: 1.3rem;
+  overflow: scroll;
+}
+.detailednav{
+  display: block ;
+  background-color:#f3f3f3;
+  padding: .5rem !important;
+  overflow-y: auto;
+  font-weight: 300;
+  font-family: Menlo, monospace;
+  border-radius: .3rem;
+  
+  margin-left: .3rem;
+  border-bottom: 1px solid #eee;
+}
+.navtitle{
+  font-size: 1rem;
+  text-align: center;
+  color: #888;
+  border-bottom: 1px solid rgb(30, 144, 255);
+}

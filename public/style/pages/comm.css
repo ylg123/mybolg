@@ -1,0 +1,67 @@
+body{
+  background-color: rgb(135, 202, 222);
+  background-image: url(../../img/背景2.png);
+  background-size: 100% 100% cover;
+}
+.commleft{
+  background-color: #FFF;
+  padding: .3rem;
+  border-radius: .3rem;
+  border-bottom: 1px solid #eee;
+}
+.commright{
+  background-color: #FFF;
+  margin-left: .3rem;
+  padding: .3rem;
+  border-radius: .3rem;
+  border-bottom: 1px solid #eee;
+}
+.commmain{
+  margin-top: .5rem;
+}
+.listtitle{
+  font-size: 1.3rem;
+  padding: 0 0.5rem;
+}
+.listtitle:hover{
+  background-color: #D3D3D3;
+}
+.listtitle a{
+  color: orangered;
+}
+.listcontext{
+  color: black;
+  font-weight: 500;
+  padding: .5rem;
+}
+.listicon{
+  padding: 0.5rem 0;
+  color: purple;
+}
+.listicon span{
+  display: inline-block;
+  padding: 0 10px;
+}
+
+.title-anchor{
+  color:#888 !important;
+  padding:4px !important;
+  margin: 0rem !important;
+  height: auto !important;
+  line-height: 1.2rem !important;
+  font-size: .9rem !important;
+  border-bottom: 1px dashed #eee;
+}
+.active{
+  color:rgb(30, 144, 255) !important;
+}
+.breaddiv{
+  padding: .5rem;
+  border-bottom:1px solid #eee;
+  background-color: #e1f0ff;
+}
+.carouseldiv{
+  margin-top: .8rem;
+  border: 1px solid #eee;
+  padding: .1rem;
+}

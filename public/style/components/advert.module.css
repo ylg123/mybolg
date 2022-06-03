@@ -1,0 +1,13 @@
+.addiv{
+  margin-top: .5rem;
+  background-color: #FFF;
+  margin-left: .3rem;
+  padding:.3rem;
+  border-radius: .3rem;
+  border:1px solid #eee;
+}
+.addiv div{
+  border-radius: .3rem;
+  margin-top: .2rem;
+  overflow: hidden;
+}

@@ -1,0 +1,20 @@
+.authordiv{
+  text-align: center;
+  padding: 1rem;
+  background-color: #FFF;
+  margin-left: .3rem;
+  padding:.3rem;
+  border-radius: .3rem;
+  border:1px solid #eee;
+}
+.authordiv div{
+  margin-bottom: 1rem;
+}
+.authorintroduction{
+  font-size: .8rem;
+  color: #999;
+}
+.account{
+  background-color: #999;
+  margin: 0 .5rem;
+}
